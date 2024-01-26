@@ -38,7 +38,7 @@ Pull requests and suggestions are welcome. Please ensure your contributions foll
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE.MD) file for details.
 
 ## Exampe with user Interaction
 
